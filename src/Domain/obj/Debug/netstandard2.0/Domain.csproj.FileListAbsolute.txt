@@ -1,0 +1,9 @@
+c:\NOVOGIT\Supermercado\server\src\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+c:\NOVOGIT\Supermercado\server\src\Domain\bin\Debug\netstandard2.0\Domain.dll
+c:\NOVOGIT\Supermercado\server\src\Domain\bin\Debug\netstandard2.0\Domain.pdb
+c:\NOVOGIT\Supermercado\server\src\Domain\obj\Debug\netstandard2.0\Domain.csprojAssemblyReference.cache
+c:\NOVOGIT\Supermercado\server\src\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
+c:\NOVOGIT\Supermercado\server\src\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+c:\NOVOGIT\Supermercado\server\src\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+c:\NOVOGIT\Supermercado\server\src\Domain\obj\Debug\netstandard2.0\Domain.dll
+c:\NOVOGIT\Supermercado\server\src\Domain\obj\Debug\netstandard2.0\Domain.pdb

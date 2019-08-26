@@ -1,0 +1,14 @@
+c:\NOVOGIT\Supermercado\server\test\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\NOVOGIT\Supermercado\server\test\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+c:\NOVOGIT\Supermercado\server\test\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+c:\NOVOGIT\Supermercado\server\test\bin\Debug\netcoreapp2.2\test.deps.json
+c:\NOVOGIT\Supermercado\server\test\bin\Debug\netcoreapp2.2\test.runtimeconfig.json
+c:\NOVOGIT\Supermercado\server\test\bin\Debug\netcoreapp2.2\test.runtimeconfig.dev.json
+c:\NOVOGIT\Supermercado\server\test\bin\Debug\netcoreapp2.2\test.dll
+c:\NOVOGIT\Supermercado\server\test\bin\Debug\netcoreapp2.2\test.pdb
+c:\NOVOGIT\Supermercado\server\test\obj\Debug\netcoreapp2.2\test.csprojAssemblyReference.cache
+c:\NOVOGIT\Supermercado\server\test\obj\Debug\netcoreapp2.2\test.csproj.CoreCompileInputs.cache
+c:\NOVOGIT\Supermercado\server\test\obj\Debug\netcoreapp2.2\test.AssemblyInfoInputs.cache
+c:\NOVOGIT\Supermercado\server\test\obj\Debug\netcoreapp2.2\test.AssemblyInfo.cs
+c:\NOVOGIT\Supermercado\server\test\obj\Debug\netcoreapp2.2\test.dll
+c:\NOVOGIT\Supermercado\server\test\obj\Debug\netcoreapp2.2\test.pdb
